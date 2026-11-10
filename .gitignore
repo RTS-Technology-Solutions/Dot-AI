@@ -133,3 +133,5 @@ simulation_saves/
 
 # Pygame window icon cache
 pygame_icon.bmp
+
+.history/

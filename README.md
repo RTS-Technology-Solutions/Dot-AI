@@ -1,3 +1,13 @@
+---
+project:
+  id: dot-ai
+  name: Dot AI
+  date: 2024-07-31
+  status: feature-complete
+  tags: [game, AI]
+  priority: medium
+  next_action: None
+---
 # 🤖 Dot-tastic AI Adventures: Learn to Code Smart Paths! 🚀
 
 Hey future scientists and coders! 👋 Get ready to meet our little digital friend, the "Dot"! ✨ This project is like a super cool video game where you get to watch a tiny dot learn how to find its way through a maze, just like you learn new things every day!
